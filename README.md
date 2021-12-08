@@ -10,5 +10,6 @@ ProductSale
 
 ProductType (4)
 
+Добавлен API (в ветках)
 
 Обновлен WPF
